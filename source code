@@ -1,0 +1,864 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Light Coin</title><meta property="og:site_name" content="LIGHT COIN" />
+<meta property="og:title" content="Light Coin" />
+<meta property="og:description" content="​Max Supply 1, 00,000,000 XLC ​" />
+<meta property="og:image" content="http://lightcoin.weebly.com/uploads/1/1/6/5/116595011/img-content_1_orig.png" />
+<meta property="og:image" content="http://lightcoin.weebly.com/uploads/1/1/6/5/116595011/cryptopia_orig.png" />
+<meta property="og:image" content="http://lightcoin.weebly.com/uploads/1/1/6/5/116595011/logo_orig.png" />
+<meta property="og:image" content="http://lightcoin.weebly.com/uploads/1/1/6/5/116595011/editor/livecoin-logo_1.png?1514484262" />
+<meta property="og:image" content="http://lightcoin.weebly.com/uploads/1/1/6/5/116595011/bittrex-logo_orig.png" />
+<meta property="og:image" content="http://lightcoin.weebly.com/uploads/1/1/6/5/116595011/editor/binance-logo.png?1514466779" />
+<meta property="og:url" content="http://lightcoin.weebly.com/" />
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/sites.css?buildTime=1513899303" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/old/fancybox.css?1513899303" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/social-icons.css?buildtime=1513899303" media="screen,projection" />
+<link rel="stylesheet" type="text/css" href="/files/main_style.css?1514649926" title="wsite-theme-css" />
+<link href='//fonts.googleapis.com/css?family=Montserrat:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+
+<link href='//fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='//fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='//fonts.googleapis.com/css?family=Montserrat:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='//fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Playfair Display" !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#0e4361 !important;}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Playfair Display" !important;font-weight:400 !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {color:#1b597c !important;}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-family:"Montserrat" !important;font-weight:700 !important;letter-spacing: -3px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-family:"Playfair Display" !important;font-weight:400 !important;letter-spacing: 0px !important;}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+@media screen and (min-width: 767px) {.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-size:37px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-size:90px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-size:22px !important;line-height:34px !important;}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+}</style>
+
+		<script>
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1513899303&"></script>
+<script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1513899303"></script><script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1513899303&"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+	
+	
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"218292239410059150","title":"Home","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"706815713774578991","title":"News","url":"news.html","target":"","nav_menu":false,"nonclickable":false},{"id":"155034964726153381","title":"Contact","url":"contact.html","target":"","nav_menu":false,"nonclickable":false},{"id":"795219186226644467","title":"faq","url":"faq.html","target":"","nav_menu":false,"nonclickable":false},{"id":"187840191410302158","title":"DOWNLOAD","url":"download.html","target":"","nav_menu":false,"nonclickable":false},{"id":"644594542677708165","title":"Buy","url":"buy.html","target":"","nav_menu":false,"nonclickable":false}],
+			"218292239410059150",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{}
+		)
+	}
+//-->
+</script>
+		
+		
+	</head>
+	<body class="header-page  wsite-page-index  full-width-body-off header-overlay-off alt-nav-off  wsite-theme-light"><div class="wrapper">
+    <div class="birdseye-header">
+      <div class="nav-wrap">
+        <div class="container">
+          <div class="logo"><span class="wsite-logo">
+
+	
+	<span class="wsite-title-placeholder">&nbsp;</span><span style="display:none">
+	<span style="display:none">LIGHT COIN</span>
+	</span>
+	
+
+</span></div>
+          <div class="nav desktop-nav"><ul class="wsite-menu-default">
+		<li id="active" class="wsite-menu-item-wrap">
+			<a
+						href="/"
+				class="wsite-menu-item"
+				>
+				Home
+			</a>
+			
+		</li>
+		<li id="pg706815713774578991" class="wsite-menu-item-wrap">
+			<a
+						href="/news.html"
+				class="wsite-menu-item"
+				>
+				News
+			</a>
+			
+		</li>
+		<li id="pg155034964726153381" class="wsite-menu-item-wrap">
+			<a
+						href="/contact.html"
+				class="wsite-menu-item"
+				>
+				Contact
+			</a>
+			
+		</li>
+		<li id="pg795219186226644467" class="wsite-menu-item-wrap">
+			<a
+						href="/faq.html"
+				class="wsite-menu-item"
+				>
+				faq
+			</a>
+			
+		</li>
+		<li id="pg187840191410302158" class="wsite-menu-item-wrap">
+			<a
+						href="/download.html"
+				class="wsite-menu-item"
+				>
+				DOWNLOAD
+			</a>
+			
+		</li>
+		<li id="pg644594542677708165" class="wsite-menu-item-wrap">
+			<a
+						href="/buy.html"
+				class="wsite-menu-item"
+				>
+				Buy
+			</a>
+			
+		</li>
+</ul>
+</div>
+          <label class="hamburger"><span></span></label>
+        </div>
+      </div>
+    </div>
+
+    <div class="banner-wrap">
+      <div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div  class="wsite-section wsite-header-section wsite-section-bg-image" style="height: auto;background-image: url(&quot;/uploads/1/1/6/5/116595011/background-images/1621094992.jpg&quot;) ;background-repeat: no-repeat ;background-position: 53.05% 0.00% ;background-size: 110% ;background-color: transparent ;background-size: 110%;" >
+		<div class="wsite-section-content">
+			
+          <div class="container">
+            <div class="banner">
+				<div class="wsite-section-elements">
+					<h2 class="wsite-content-title" style="text-align:center;">LIGHT COIN</h2>
+				</div>
+			</div>
+          </div>
+      
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="main-wrap">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-section-effect-reveal wsite-background-2" style="vertical-align: bottom;background-color: #ffffff;background-image: none;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:19px;"></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong>UP Coming Digital Currency</strong></h2>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:45.357552521469%; padding:0 15px;">
+					
+						
+
+<div class="paragraph" style="text-align:center;"><br /><font size="4">&#8203;Max Supply</font><br /><font size="5">1,</font>00,000,000 <font size="2">XLC<br />&#8203;</font></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:8.7788811331876%; padding:0 15px;">
+					
+						
+
+<h2 class="wsite-content-title" style="text-align:center;">X<br />L<br />&#8203;C</h2>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:45.863566345343%; padding:0 15px;">
+					
+						
+
+<div class="paragraph" style="text-align:center;">&#8203;<br /><font size="4">&#8203;Circulating Supply</font><br /><font size="4">5,</font><font size="3">06,819</font> <font size="2">XLC</font><br /><font size="4">&#8203;</font></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a href='/uploads/1/1/6/5/116595011/img-content_1_orig.png' rel='lightbox' onclick='if (!lightboxLoaded) return false'>
+<img src="/uploads/1/1/6/5/116595011/img-content_1_orig.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/1/6/5/116595011/cryptopia_orig.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/1/6/5/116595011/logo_orig.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/1/6/5/116595011/editor/livecoin-logo_1.png?1514484262" alt="Picture" style="width:182;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a href='/uploads/1/1/6/5/116595011/bittrex-logo_orig.png' rel='lightbox' onclick='if (!lightboxLoaded) return false'>
+<img src="/uploads/1/1/6/5/116595011/bittrex-logo_orig.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:right">
+<a>
+<img src="/uploads/1/1/6/5/116595011/editor/binance-logo.png?1514466779" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong><a href="https://coinmarketcap.com/"><font size="7" color="#136694">Cryptocurrency Market Capitalizations</font></a></strong></h2>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-section-effect-reveal wsite-background-4" style="height: auto;vertical-align: bottom;background-color: #f8fff7;background-image: none;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:16px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:178px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div>
+				<form enctype="multipart/form-data" action="//www.weebly.com/weebly/apps/formSubmit.php"
+				method="POST" id="form-386340849909961713">
+					<div id="386340849909961713-form-parent" class="wsite-form-container"
+					style="margin-top:10px;">
+						<ul class="formlist" id="386340849909961713-form-list">
+							<div><div class="wsite-form-field" style="margin:5px 0px 5px 0px;">
+				<label class="wsite-form-label" for="input-324934707642913752">Email <span class="form-required">*</span></label>
+				<div class="wsite-form-input-container">
+					<input id="input-324934707642913752" class="wsite-form-input wsite-input wsite-input-width-370px" type="text" name="_u324934707642913752" />
+				</div>
+				<div id="instructions-324934707642913752" class="wsite-form-instructions" style="display:none;"></div>
+			</div></div>
+						</ul>
+					</div>
+					<div style="display:none; visibility:hidden;">
+						<input type="text" name="wsite_subject" />
+					</div>
+					<div style="text-align:left; margin-top:10px; margin-bottom:10px;">
+						<input type="hidden" name="form_version" value="2" />
+						<input type="hidden" name="wsite_approved" id="wsite-approved" value="approved" />
+						<input type="hidden" name="ucfid" value="386340849909961713" />
+						<input type="hidden" name="recaptcha_token"/>
+						<input type="hidden" name="opted_in" value="1" />
+						<input type="submit" style="position:absolute;top:0;left:-9999px;width:1px;height:1px" />
+						<a class="wsite-button">
+							<span class="wsite-button-inner">Subscribe to Newsletter</span>
+						</a>
+					</div>
+				</form>
+				<div id="g-recaptcha-386340849909961713" class="recaptcha" data-size="invisible" data-recaptcha="0" data-sitekey="6Ldf5h8UAAAAAJFJhN6x2OfZqBvANPQcnPa8eb1C"></div>
+			
+
+			</div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div id="844745794650276106"><div><style type="text/css">
+	#element-ca8ed104-977e-4f9d-8ced-df95bec35146 a.back-to-top {
+  display: none;
+  width: 60px;
+  height: 60px;
+  text-indent: -9999px;
+  position: fixed;
+  z-index: 999;
+  bottom: 50px;
+  background: #4caac9 url("//marketplace.editmysite.com/elements/569198776394566218-1.0.1/assets/up-arrow.png") no-repeat center 43%;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+#element-ca8ed104-977e-4f9d-8ced-df95bec35146 a.back-to-top.back-to-top-left {
+  left: 30px;
+}
+#element-ca8ed104-977e-4f9d-8ced-df95bec35146 a.back-to-top.back-to-top-right {
+  right: 30px;
+}
+
+</style><div id="element-ca8ed104-977e-4f9d-8ced-df95bec35146" data-platform-element-id="569198776394566218-1.0.1" class="platform-element-contents">
+	<a href="#" class="back-to-top back-to-top-right"></a>
+
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement844745794650276106() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "569198776394566218-1.0.1";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = PlatformElement.extend({
+    initialize: function(options) {
+	    this.amountScrolled = 300;
+
+	    var self = this;
+
+	    $(window).bind('scroll', function (ev) {
+		    self.checkAppear();
+	    });
+    },
+
+    events: {
+    	"click a.back-to-top": "goBackToTop"
+    },
+
+	goBackToTop: function() {
+
+		var animateTimeMS = 1000 - (parseInt(this.settings.get("scroll_speed")) * 100);
+
+		$('html, body').animate({
+			scrollTop: 0
+		}, animateTimeMS);
+		
+		return false;
+	},
+
+	checkAppear: function() {
+		if ( $(window).scrollTop() > this.amountScrolled ) {
+			$('a.back-to-top').fadeIn('slow');
+		} else {
+			$('a.back-to-top').fadeOut('slow');
+		}
+	}
+});
+
+;
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"icon_size_each":[{"icon_size_index":0},{"icon_size_index":1},{"icon_size_index":2},{"icon_size_index":3},{"icon_size_index":4},{"icon_size_index":5},{"icon_size_index":6},{"icon_size_index":7},{"icon_size_index":8},{"icon_size_index":9},{"icon_size_index":10},{"icon_size_index":11},{"icon_size_index":12},{"icon_size_index":13},{"icon_size_index":14},{"icon_size_index":15},{"icon_size_index":16},{"icon_size_index":17},{"icon_size_index":18},{"icon_size_index":19},{"icon_size_index":20},{"icon_size_index":21},{"icon_size_index":22},{"icon_size_index":23},{"icon_size_index":24},{"icon_size_index":25},{"icon_size_index":26},{"icon_size_index":27},{"icon_size_index":28},{"icon_size_index":29},{"icon_size_index":30},{"icon_size_index":31},{"icon_size_index":32},{"icon_size_index":33},{"icon_size_index":34},{"icon_size_index":35},{"icon_size_index":36},{"icon_size_index":37},{"icon_size_index":38},{"icon_size_index":39},{"icon_size_index":40},{"icon_size_index":41},{"icon_size_index":42},{"icon_size_index":43},{"icon_size_index":44},{"icon_size_index":45},{"icon_size_index":46},{"icon_size_index":47},{"icon_size_index":48},{"icon_size_index":49},{"icon_size_index":50},{"icon_size_index":51},{"icon_size_index":52},{"icon_size_index":53},{"icon_size_index":54},{"icon_size_index":55},{"icon_size_index":56},{"icon_size_index":57},{"icon_size_index":58},{"icon_size_index":59}],"scroll_speed_each":[{"scroll_speed_index":0},{"scroll_speed_index":1},{"scroll_speed_index":2},{"scroll_speed_index":3}],"margin_bottom_each":[{"margin_bottom_index":0},{"margin_bottom_index":1},{"margin_bottom_index":2},{"margin_bottom_index":3},{"margin_bottom_index":4},{"margin_bottom_index":5},{"margin_bottom_index":6},{"margin_bottom_index":7},{"margin_bottom_index":8},{"margin_bottom_index":9},{"margin_bottom_index":10},{"margin_bottom_index":11},{"margin_bottom_index":12},{"margin_bottom_index":13},{"margin_bottom_index":14},{"margin_bottom_index":15},{"margin_bottom_index":16},{"margin_bottom_index":17},{"margin_bottom_index":18},{"margin_bottom_index":19},{"margin_bottom_index":20},{"margin_bottom_index":21},{"margin_bottom_index":22},{"margin_bottom_index":23},{"margin_bottom_index":24},{"margin_bottom_index":25},{"margin_bottom_index":26},{"margin_bottom_index":27},{"margin_bottom_index":28},{"margin_bottom_index":29},{"margin_bottom_index":30},{"margin_bottom_index":31},{"margin_bottom_index":32},{"margin_bottom_index":33},{"margin_bottom_index":34},{"margin_bottom_index":35},{"margin_bottom_index":36},{"margin_bottom_index":37},{"margin_bottom_index":38},{"margin_bottom_index":39},{"margin_bottom_index":40},{"margin_bottom_index":41},{"margin_bottom_index":42},{"margin_bottom_index":43},{"margin_bottom_index":44},{"margin_bottom_index":45},{"margin_bottom_index":46},{"margin_bottom_index":47},{"margin_bottom_index":48},{"margin_bottom_index":49}],"margin_horizontal_each":[{"margin_horizontal_index":0},{"margin_horizontal_index":1},{"margin_horizontal_index":2},{"margin_horizontal_index":3},{"margin_horizontal_index":4},{"margin_horizontal_index":5},{"margin_horizontal_index":6},{"margin_horizontal_index":7},{"margin_horizontal_index":8},{"margin_horizontal_index":9},{"margin_horizontal_index":10},{"margin_horizontal_index":11},{"margin_horizontal_index":12},{"margin_horizontal_index":13},{"margin_horizontal_index":14},{"margin_horizontal_index":15},{"margin_horizontal_index":16},{"margin_horizontal_index":17},{"margin_horizontal_index":18},{"margin_horizontal_index":19},{"margin_horizontal_index":20},{"margin_horizontal_index":21},{"margin_horizontal_index":22},{"margin_horizontal_index":23},{"margin_horizontal_index":24},{"margin_horizontal_index":25},{"margin_horizontal_index":26},{"margin_horizontal_index":27},{"margin_horizontal_index":28},{"margin_horizontal_index":29}],"background_color":"#4caac9","icon_size":60,"scroll_speed":4,"margin_bottom":50,"left_or_right":"right","margin_horizontal":30});
+			_Element.prototype.settings.page_element_id = "844745794650276106";
+
+			_Element.prototype.element_id = "ca8ed104-977e-4f9d-8ced-df95bec35146";
+			_Element.prototype.user_id = "116595011";
+			_Element.prototype.site_id = "697815298939470328";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/elements/569198776394566218-1.0.1/assets/";
+			new _Element({
+				el: '#element-ca8ed104-977e-4f9d-8ced-df95bec35146'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement844745794650276106();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement844745794650276106, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement844745794650276106();
+		}
+	});
+}
+
+</script></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-21" style="height: auto;background-color: #d8d8d8;background-image: none;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:26px;"></div>
+
+<div class="wsite-spacer" style="height:10px;"></div>
+
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;"></hr>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<div class="wsite-spacer" style="height:43px;"></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="footer-wrap">
+        <div class="footer"><div id="weebly-footer-signup-container">
+	<div class="signup-container-header trigger-signup">
+		<button class="start-free">Create a free website</button>
+		<div class="powered-by">
+			Powered by <span class="link weebly-icon"></span>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1513899303"></script>
+<script type="text/javascript">
+	Weebly.footer.setupContainer('cdn2.editmysite.com', '1513899303', 'www.weebly.com');
+</script>
+</div>
+    </div><!-- end footer-wrap -->
+  </div><!-- /.wrapper -->
+
+  <div id="navMobile" class="nav mobile-nav">
+    <label class="hamburger"><span></span></label>
+    <ul class="wsite-menu-default">
+    		<li id="active" class="wsite-menu-item-wrap">
+    			<a
+    						href="/"
+    				class="wsite-menu-item"
+    				>
+    				Home
+    			</a>
+    			
+    		</li>
+    		<li id="pg706815713774578991" class="wsite-menu-item-wrap">
+    			<a
+    						href="/news.html"
+    				class="wsite-menu-item"
+    				>
+    				News
+    			</a>
+    			
+    		</li>
+    		<li id="pg155034964726153381" class="wsite-menu-item-wrap">
+    			<a
+    						href="/contact.html"
+    				class="wsite-menu-item"
+    				>
+    				Contact
+    			</a>
+    			
+    		</li>
+    		<li id="pg795219186226644467" class="wsite-menu-item-wrap">
+    			<a
+    						href="/faq.html"
+    				class="wsite-menu-item"
+    				>
+    				faq
+    			</a>
+    			
+    		</li>
+    		<li id="pg187840191410302158" class="wsite-menu-item-wrap">
+    			<a
+    						href="/download.html"
+    				class="wsite-menu-item"
+    				>
+    				DOWNLOAD
+    			</a>
+    			
+    		</li>
+    		<li id="pg644594542677708165" class="wsite-menu-item-wrap">
+    			<a
+    						href="/buy.html"
+    				class="wsite-menu-item"
+    				>
+    				Buy
+    			</a>
+    			
+    		</li>
+    </ul>
+  </div>
+
+	<script type="text/javascript" src="/files/theme/plugins.js?1508256021"></script>
+  <script type="text/javascript" src="/files/theme/custom.js?1508256021"></script>
+
+		<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+
+</script>
+
+<script type="text/javascript" async=1>
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '116595011';
+	_W.Analytics.site_id = '697815298939470328';
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			}
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		false
+	);
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = "https://secure.quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-0dYLvhSGGqUWo",
+labels:"l0,u116595011.u116595011s697815298939470328"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u116595011.u116595011s697815298939470328" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script>
+
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+
+</script>
+<div id="eu-cookie" class="notification" style="display: none;">
+	<span id="eu-cookie-content"></span>
+	<span id="eu-cookie-close">&#10005;</span>
+</div>
+
+<script type="text/javascript">
+	(function($) {
+		window.cookie_location = 'bottom';
+		// this cookie_content should already be pre-encoded from CookieSettingView.js
+		window.cookie_content = 'By using this site you consent to the use of cookies. Cookies can be managed in your browser or device settings.' || _W.stl('templates.publish.virtual-includes.footerCode_1');
+		window.cookie_policy_key = '697815298939470328_cookie_policy';
+		window.cookie_content_hash = 'e67c816bde33ee2f23878d228c1c751d80249811';
+
+		if (!_W.getCookie(window.cookie_policy_key) || _W.getCookie(window.cookie_policy_key) !== window.cookie_content_hash){
+			if (window.cookie_location === 'top' || window.cookie_location === 'bottom'){
+				$('#eu-cookie-content').text(decodeURIComponent(window.cookie_content));
+				(window.cookie_location === 'top') ? animateFromTop() : animateFromBottom();
+				$('#eu-cookie').show();
+			}
+		}
+
+		$('#eu-cookie-close').click(function(){
+			_W.setCookie(window.cookie_policy_key, window.cookie_content_hash, 100000);
+			$('#eu-cookie').hide();
+		});
+
+		function animateFromTop(){
+			$('#eu-cookie').css({
+				'top': '0px',
+				'animation': 'reveal-top 1 2s'
+			});
+		}
+
+		function animateFromBottom(){
+			$('#eu-cookie').css({
+				'bottom': '0px',
+				'animation': 'reveal-bottom 1 2s'
+			});
+		}
+	})(window._W && _W.jQuery);
+</script>
+
+	</body>
+</html>
